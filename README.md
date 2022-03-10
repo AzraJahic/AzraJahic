@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzraJahic
-- 👀 I’m interested in Web developing
+- 👀 I’m interested in Web development
 - 📫 Reach me at: azra.jahic2906@gmail.com
 
 <!---
